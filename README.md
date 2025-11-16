@@ -1,5 +1,5 @@
 # Big-Ideas-Final-Project
-This is the repo for group 19's (Team 404 not found (yet) final project. 
+This is the repo for group 19's (Team 404 not found (yet)) final project. 
 
 ## Team Members:
 
