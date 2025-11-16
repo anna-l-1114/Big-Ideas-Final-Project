@@ -17,9 +17,8 @@ Anna - [Parks in Pittsburgh](https://data.wprdc.org/dataset/parks1/resource/bb57
 
 Zaitun - 
 
-Avery - https://data.wprdc.org/dataset/public-works-block-party-summary/resource/4ae88ba4-f535-44d7-9a96-08c6f38a34fc
-
-Data sets for the streets in Pittsburgh with the most reigistered block parties
+Avery - [Reigistered Block Parties
+](https://data.wprdc.org/dataset/public-works-block-party-summary/resource/4ae88ba4-f535-44d7-9a96-08c6f38a34fc)
 
 Sahiti -
  
