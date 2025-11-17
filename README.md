@@ -13,7 +13,7 @@ Sahiti - sak817@pitt.edu
 
 ## Descriptions/Links of Data Sets used
 
-Anna - [Parks in Pittsburgh](https://data.wprdc.org/dataset/parks1/resource/bb57d0a7-e8ee-4218-8906-0dedc903038c)
+Anna - [Parks in Pittsburgh](https://data.wprdc.org/datastore/dump/fa329e3d-89ff-4708-8ddf-81bfedcad11d)
 
 Zaitun - 
 
